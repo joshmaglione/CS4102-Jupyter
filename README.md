@@ -9,7 +9,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-Thanks for [Götz Pfeiffer](https://www.universityofgalway.ie/our-research/people/mathematical-statistical-sciences/goetzpfeiffer/) for making his [Jupyter Notebooks](https://github.com/gpfeiffer/cs4102) available.
+Thanks to [Götz Pfeiffer](https://www.universityofgalway.ie/our-research/people/mathematical-statistical-sciences/goetzpfeiffer/) for making his [Jupyter Notebooks](https://github.com/gpfeiffer/cs4102) available.
 
 ## What is this about? 
 
