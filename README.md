@@ -18,3 +18,7 @@ Half of our lectures in CS4102 will be putting into practice the data analysis m
 ## Do I need to be a Python expert? 
 
 No. Ideally one is familiar with the general syntax and structure of Python code. If not, try playing around with `python_tutorial.ipynb`. This is a mini python tutorial written by [Götz Pfeiffer](https://www.universityofgalway.ie/our-research/people/mathematical-statistical-sciences/goetzpfeiffer/). 
+
+## How can I get my Jupyter Notebooks to look like they do in class?
+
+I use [VS Code](https://code.visualstudio.com/) with the Jupyter extension installed (done inside VS Code). 
