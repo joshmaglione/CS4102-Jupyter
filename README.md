@@ -21,4 +21,14 @@ No. Ideally one is familiar with the general syntax and structure of Python code
 
 ## How can I get my Jupyter Notebooks to look like they do in class?
 
-I use [VS Code](https://code.visualstudio.com/) with the Jupyter extension installed (done inside VS Code). 
+I use [VS Code](https://code.visualstudio.com/) together with many extensions within VS Code for Jupyter Notebooks and Python.
+
+For Python, the extensions I use are 
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
+  
+For Jupyter Notebooks, the extensions I use are 
+- [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+- [Jupyter Notebook Renderers](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers)
+
+I also use [Rainbox CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) for viewing CSV files.
