@@ -57,5 +57,5 @@ pip install --upgrade pip
 
 In order to use all the modules (Python packages) we use in class, run the following code in your terminal (command prompt or powershell)
 ```bash
-pip install numpy matplotlib pandas statsmodels
+pip install numpy matplotlib pandas statsmodels sklearn
 ```
