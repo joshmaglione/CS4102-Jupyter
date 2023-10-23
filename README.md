@@ -12,13 +12,13 @@ A repository for the CS4102 Jupyter Notebooks
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+[![CC BY 4.0][cc-by-image]][cc-by] Joshua Maglione. 
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-Thanks to [Götz Pfeiffer](https://www.universityofgalway.ie/our-research/people/mathematical-statistical-sciences/goetzpfeiffer/) for making his [Jupyter Notebooks](https://github.com/gpfeiffer/cs4102) available.
+Thanks also to [Götz Pfeiffer](https://www.universityofgalway.ie/our-research/people/mathematical-statistical-sciences/goetzpfeiffer/) for making his Python tutorial [available](https://github.com/gpfeiffer/cs4102).
 
 ## Frequently Asked Questions
 
