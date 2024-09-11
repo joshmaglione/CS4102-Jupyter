@@ -2,6 +2,7 @@
 A repository for the CS4102 Jupyter Notebooks 
 
 - [CS4102-Jupyter](#cs4102-jupyter)
+  - [Binder](#binder)
   - [Frequently Asked Questions](#frequently-asked-questions)
     - [What is this about?](#what-is-this-about)
     - [Do I need to be a Python expert?](#do-i-need-to-be-a-python-expert)
@@ -19,6 +20,14 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 Thanks also to [Götz Pfeiffer](https://www.universityofgalway.ie/our-research/people/mathematical-statistical-sciences/goetzpfeiffer/) for making his Python tutorial [available](https://github.com/gpfeiffer/cs4102).
+
+---
+
+## Binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joshmaglione/CS4102-Jupyter/HEAD)
+
+Launches this repository in a Jupyter Notebook in your browser. Binder takes a while to start up (a few minutes). This way you do not have to install anything on your computer.
 
 ## Frequently Asked Questions
 
